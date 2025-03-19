@@ -13,7 +13,11 @@ docker push us-central1-docker.pkg.dev/ai-projects-453411/number-plate-repo/numb
 
 Below are the input and output payload formats for each endpoint for your reference:
 
----
+============= URL =================
+
+https://number-plate-app-341598202610.us-central1.run.app
+
+====================================
 
 ### 1. Root Endpoint (`/`)
 
